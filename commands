@@ -1,0 +1,271 @@
+df -h
+uname -a
+adduser git
+cd opt
+ls -la
+cd /opt
+mkdir git
+chown git:git git
+apt-get install
+pwd
+cd ..
+cd projects//saas-template/
+mkdir projects
+pwd
+cd root
+mkdir projects
+ls -la
+cd projects//saas-template
+mkdir saas-template
+cd saas-template/
+pwd
+cd ..
+ls -la
+cd projects/
+mkdir saas-template
+cd saas-template/
+git init
+git branch
+git remove
+git remote
+mc
+apt-get install mc
+mc
+apt install mc
+mc
+git remote add bootstrap-upstream https://github.com/twbs/bootstrap.git
+git remote
+git remote add bootstrap-origin https://github.com/ap83/bootstrap.git
+git remote
+git remote -v
+su git
+git subtree add --prefix bootstrap-subtree bootstrap-upstream master --squash
+pwd
+ls -la
+cd saas-template/
+ls -la
+git subtree add --prefix bootstrap-subtree bootstrap-upstream master --squash
+git branch -v
+cd .git
+ls -la
+cd ..
+ls -la
+rm saas-template/
+rm -R  saas-template/
+cd projects/
+cd saas-template/
+ls -la
+git subtree add --prefix bootstrap-subtree bootstrap-upstream master --squash
+touch file.txt
+git add *
+git status
+git config --local user.email "apashchenko@kse.org.ua"
+git config --local user.name "Anton Pashchenko"
+git status
+git subtree add --prefix bootstrap-subtree bootstrap-upstream master --squash
+touch text2.txt
+git add *
+git commit -m "new commit"
+git subtree add --prefix bootstrap-subtree bootstrap-upstream master --squash
+git remote -v
+git branch -av
+git subtree pull --prefix bootstrap-subtree bootstrap-upstream master --squash
+git subtree push --prefix bootstrap-subtree bootstrap-origin master
+git remote -v
+git pull bootstrap-origin
+git branch -v
+git subtree push --prefix bootstrap-subtree bootstrap-origin master
+apt-get install mc
+cat /etc/apt/sources.list | less
+apt mc install
+apt install mc
+apt-get update
+apt install mc
+mc
+git subtree pull --prefix bootstrap-subtree bootstrap-upstream master --squash
+git subtree push --prefix bootstrap-subtree bootstrap-origin master
+git fetch bootstrap-upstream
+git status
+echo "something...." >> README.md
+git status
+git add README.ms
+git add README.md
+git commit -m "update readme.md"
+git subtree push --prefix bootstrap-subtree bootstrap-origin master
+cat README.md 
+git branch -v
+git branch -av
+git branch -v
+git subtree push --prefix bootstrap-subtree bootstrap-origin master
+cat README.md
+ls -la
+cd bootstrap-subtree/
+ls -la
+cat README.md 
+echo "something2....." >>README.md
+git add README.md
+git commit -m "second commit with readme"
+git subtree push --prefix bootstrap-subtree bootstrap-origin master
+cd ..
+git subtree push --prefix bootstrap-subtree bootstrap-origin master
+git checkout -b feature
+touch 1.txt
+git add *
+git commit -m"1.txt"
+touch 2.txt
+git add *
+git commit -m"2.txt"
+touch 3.txt
+git add *
+git commit -m"3.txt"
+git log -4
+git brach -v
+git branch -v
+git log -4
+git log -3
+git log -4
+git log -3
+ls -la
+git checkout master
+ls -la
+git checkout feature
+ls -la
+git checkout master
+git cherry-pick 6db3aa8c1ceb7de55de59588fc453eb0a656e4fd
+ls -la
+git checkout feature
+mc
+ls -la
+pwd
+cd ..
+ls -la
+pwd
+mkdir swe-course
+cd swe-course/
+got clone https://github.com/swe-course/content
+git clone https://github.com/swe-course/content
+mc
+git clone https://github.com/ap83/saas-template.git
+mc
+cd content/
+./prereq.sh docker
+./prereq.sh jenkins
+./prereq.sh maven
+./prereq.sh nodejs
+docker -v
+docker-compose -v
+mvn -v
+node -v
+npm -v
+ifconfig
+cat /var/lib/jenkins/secrets/initialAdminPassword
+mc
+cd sonarqube/
+./sonarqube-up.sh -d
+docker ps
+docker logs
+docker logs 7b6be1f26942 -f
+cd ..
+git pull origin master
+git remote -v
+git branch -v
+mc
+./nexus-up.sh -d
+cd nexus
+./nexus-up.sh -d
+mc
+docker [s
+docker ps
+docker logs 2f270c60fb41 -f
+docker log 2f270c60fb41 -f
+docker logs 2f270c60fb41 -f
+./nexus-up.sh -d
+docker ps
+docker logs 2f270c60fb41 -f
+apt-get htop install
+apt-get install htop
+htop
+java -version
+top
+power off
+poweroff
+[21~
+pwd
+ls -la
+cd projects/
+ls -la
+cd swe-course/
+git status
+cd ..
+git status
+htop
+ls -la
+\cd swe-course/
+ls -la
+git branch
+docker ps
+docker ps -a
+docker rm 2f270c60fb41 7b6be1f26942 2a760b4b1f36
+docker ps -a
+docker images
+mc
+cd content/nexus/
+./nexus-up.sh -d
+cd ..
+cd sonarqube/
+./sonarqube-up.sh -d
+docker ps
+docker logs 6781d11d767f -f
+java -versiob
+java -version
+wget http://central.maven.org/maven2/org/mortbay/jetty/alpn/alpn-boot/8.1.11.v20170118/alpn-boot-8.1.11.v20170118.jar
+cd /usr/lib/jvm
+wget http://central.maven.org/maven2/org/mortbay/jetty/alpn/alpn-boot/8.1.11.v20170118/alpn-boot-8.1.11.v20170118.jar
+mc
+systemctl stop jenkins && systemctl start jenkins
+cd ~
+mc
+cd projects/swe-course/saas-template/
+./build.sh
+mc
+cd static/
+npm start
+htop
+git status
+git branch -v
+git brench feature
+git branch feature
+git push master origin
+git remote -v
+git push
+docker -v
+docker ps
+htop
+top
+htop
+ls -la
+git branch
+cd projects/
+git branch
+ls -la
+cs swe-course/
+iftop
+pip version
+pip -version
+apt install python-pip
+pip -v
+pip -V
+docker version
+df -h
+mc
+git status
+ls -la
+cd ..
+ls -la
+cd projects/
+git status
+ls -la
+cd ..
+ls -la
+exit
+OA
