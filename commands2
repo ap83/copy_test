@@ -1,3 +1,0 @@
-temppass!
-git subtree add --prefix bootstrap-subtree bootstrap-upstream master --squash
-su
